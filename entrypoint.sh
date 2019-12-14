@@ -17,3 +17,6 @@ forever --minUptime 1000 --spinSleepTime 1000 \
  -e /logs/err.log \
  -o /logs/out.log \
  $FOREVER_FILE
+
+# echo "ignore forever"
+# npm run start

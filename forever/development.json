@@ -5,6 +5,7 @@
     "watch": true,
     "watchDirectory": "src",
     "script": "src/bin/www",
-    "args": []
+    "args": [],
+    "command": "node --inspect"
   }
 ]
